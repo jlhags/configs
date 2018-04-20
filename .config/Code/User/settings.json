@@ -1,0 +1,17 @@
+{
+    "go.gopath": "/home/jhagofsk/gocode",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 13,
+    "terminal.integrated.fontFamily": "Hack",
+    "gitlens.keymap": "alternate",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    }
+}
